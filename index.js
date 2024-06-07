@@ -10,3 +10,7 @@ function sayName() {
 function isAbove18() {
     return age>=21
 }
+
+function newFn() {
+    console.log("my name is manoj");
+}
